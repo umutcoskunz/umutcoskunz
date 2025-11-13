@@ -1,16 +1,25 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">A passionate fullstack & mobile app developer from Turkey</h3>
+<h3 align="center">Fullstack & Mobile App Developer</h3>
 
-- 🔭 I’m currently working on **Flutter** for mobile app development  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</p>
+
+- 🔭 I’m currently developing mobile apps with **Flutter**  
 - 💻 I build backend services using **Node.js (JavaScript)**  
-- 🐍 I also use **Python** for various projects and algorithms  
-- ⚙️ Interested in **fullstack development, mobile UI/UX and clean architecture**
-
+- 🐍 I also work on various algorithmic & practical projects using **Python**  
 - 💬 Ask me about **Python, Flutter, Node.js**
+
 - 📫 How to reach me: **umutcoskunz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/umut-coşkun-856586291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut coşkun" height="30" width="40" /></a>
-<a href="https://instagram.com/uumutcoskun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uumutckn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/umut-coşkun-856586291" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/uumutcoskun1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
 </p>
